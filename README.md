@@ -1,23 +1,27 @@
-# Hi, I'm Laurin — I build AI systems that actually ship.
+# Laurin Lin
 
-AI integration & automation engineer · Melbourne, Australia · remote.
-I wire LLMs into real products and turn manual workflows into tested, unattended pipelines.
+Student developer in Melbourne. I build LLM applications and automation pipelines in Python and TypeScript, and I'm looking for an internship or graduate role in AI or software engineering.
 
-**What I ship**
+- **Study:** VCE Year 12 at Glen Waverley Secondary College (exams November 2026), then a Diploma of Information Technology from February 2027 as a pathway into a Bachelor of Artificial Intelligence.
+- **Availability:** full-time from 16 November 2026 to 15 January 2027, then up to 24 hours a week from late February 2027 (student visa).
 
-- LLM integrations — agents, RAG, structured output, tool use, cost control
-- Workflow automation — ingest → LLM logic → delivery, with failure handling and clean logs
-- MCP servers and Claude Code tooling
+## Projects
 
-**Projects**
+| Project | What it does | Built with | Evidence |
+|---|---|---|---|
+| [grounded-chat](https://github.com/ssh071102-code/grounded-chat) | Answers questions from a set of documents with inline citations, then checks each sentence of the answer against the retrieved passages and flags the ones they don't support. | Next.js, TypeScript, local embeddings, Postgres/pgvector, Anthropic API | recall@5 of 0.867 on the bundled eval set; 133 tests |
+| [script2video](https://github.com/ssh071102-code/script2video) | Turns a markdown script into a narrated video with word-timed captions. | Python, edge-tts, ffmpeg | 100 tests; sample video in the README |
+| [claude-screen-mcp](https://github.com/ssh071102-code/claude-screen-mcp) | MCP server that gives a model read-only access to the screen: screenshots, OCR and change detection. | TypeScript, MCP SDK | unit tests plus a Windows end-to-end suite; published on npm |
+| [continuity-showrunner](https://github.com/ssh071102-code/continuity-showrunner) | Turns one premise into a short film and keeps characters and places consistent across shots. Built for the Qwen Cloud Global AI Hackathon, Track 2. | Python, Qwen image and video models, ffmpeg | 22-second film attached to the release |
+| [gig-radar](https://github.com/ssh071102-code/gig-radar) | Collects postings from several sources, scores them against a profile with a cheap model and drafts replies for the best matches under a spending cap. | Python, Anthropic API, SQLite, Telegram | 69 tests; offline demo that needs no API keys |
+| [prompt-forge](https://github.com/ssh071102-code/prompt-forge) | Improves a prompt by hill-climbing on labeled examples and reports its score on a held-out validation set. | Python, Anthropic API | 61 tests; type-checked with mypy strict |
 
-| | |
-|---|---|
-| [gig-radar](https://github.com/ssh071102-code/gig-radar) | Freelance lead-gen pipeline: watches job boards, LLM-scores every lead, drafts tailored proposals, delivers to Telegram |
-| [claude-screen-mcp](https://github.com/ssh071102-code/claude-screen-mcp) | Read-only MCP server for screen state: capture, OCR, change detection — no input control by design |
-| [ai-council](https://github.com/ssh071102-code/ai-council) | Multi-LLM consensus: parallel voters, weighted scoring, veto rules, audit-ready meeting records |
-| [prompt-forge](https://github.com/ssh071102-code/prompt-forge) | Prompt optimizer that hill-climbs against labeled examples and keeps a change only if it measurably wins |
+Every repo has CI, and its README states what it doesn't do yet.
 
-**Stack:** Python · TypeScript/Node · Anthropic & OpenAI APIs · MCP · pytest · GitHub Actions
+## Tools
 
-**Work with me:** [ssh071102-code.github.io/laurin-landing](https://ssh071102-code.github.io/laurin-landing/) — or open an issue on any repo.
+Python (pytest, asyncio, Typer), TypeScript and Node, Next.js, SQL, ffmpeg, GitHub Actions. LLM and generative APIs from Anthropic and Qwen, and the Model Context Protocol.
+
+## AI assistance
+
+I use Claude Code as a pair programmer. Commits it co-authored carry a `Co-Authored-By` trailer.
