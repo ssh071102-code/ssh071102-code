@@ -2,8 +2,8 @@
 
 Student developer in Melbourne. I build LLM applications and automation pipelines in Python and TypeScript, and I'm looking for an internship or graduate role in AI or software engineering.
 
-- **Study:** VCE Year 12 at Glen Waverley Secondary College (exams November 2026), then a Diploma of Information Technology from February 2027 as a pathway into a Bachelor of Artificial Intelligence.
-- **Availability:** full-time from 16 November 2026 to 15 January 2027, then up to 24 hours a week from late February 2027 (student visa).
+- **Study:** VCE Year 12 at Glen Waverley Secondary College (exams finish 12 November 2026), then studying AI and IT from February 2027.
+- **Availability:** weekends now; full-time from 13 November 2026 to 15 January 2027; up to 24 hours a week from late February 2027 (student visa).
 
 ## Projects
 
