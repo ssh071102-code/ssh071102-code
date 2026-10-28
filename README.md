@@ -3,7 +3,7 @@
 School leaver in Melbourne. I make short-form video and build AI tools for content: script-to-video, short AI films with consistent characters, and assistants that cite their sources. I'm looking for an internship, part-time or junior role in content, social media or AI.
 
 - **Study:** VCE Year 12 at Glen Waverley Secondary College (last exam 12 November 2026), then studying AI and IT from February 2027.
-- **Availability:** I can start now on days without an exam and any day from 13 November, up to 48 hours a fortnight until the school year ends on 18 December; full-time over the summer; up to 48 hours a fortnight from late February 2027 (student visa).
+- **Availability:** I can start now on days without a Year 12 exam and any day from 13 November, full-time from 19 December to late February 2027, then part-time alongside study.
 
 ## Projects
 
