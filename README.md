@@ -1,11 +1,8 @@
 # Laurin Lin
 
-School leaver in Melbourne. I edit short-form video and build AI tools for video and content. I'm looking for an internship, part-time or junior role in video, content, social media or AI.
+I build AI systems for businesses: assistants that answer from a company's own documents, content and video pipelines, and the automation around them. I also edit short-form video. I run [Kailoo](https://kailoo.ai), an AI engineering studio in Melbourne that takes these on as fixed-price projects.
 
-[LinkedIn](https://www.linkedin.com/in/laurin-lin-51291b420)
-
-- **Study:** VCE Year 12 at Glen Waverley Secondary College (last exam 12 November 2026), then studying AI and IT from February 2027.
-- **Availability:** I can start now on days without a Year 12 exam and any day from 13 November, full-time from 19 December to late February 2027, then part-time alongside study.
+[kailoo.ai](https://kailoo.ai) · [LinkedIn](https://www.linkedin.com/in/laurin-lin-51291b420)
 
 ## Video work
 
